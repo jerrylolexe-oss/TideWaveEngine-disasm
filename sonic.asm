@@ -2623,7 +2623,7 @@ MusicList:
 		dc.b mus_SYZ	; SYZ
 		dc.b mus_SBZ	; SBZ
 ;		zonewarning MusicList,1
-		dc.b mus_FZ	; Ending
+		dc.b mus_Ending	; Ending
 		even
 ; ===========================================================================
 
